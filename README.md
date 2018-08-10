@@ -8,16 +8,16 @@ Convenient local blast tool for non-bioinformaticists in the Wise lab
 
 	Please make sure fasta file is formatted correctly as shown below:
 	
->MLOC_12866_gRNA1A
-GAAGGAGCACGACGACAACGAGG
->MLOC_12866_gRNA1T
-GAAGGAGCACGACGACAACGTGG
->MLOC_12866_gRNA1C
-GAAGGAGCACGACGACAACGCGG
->MLOC_12866_gRNA1G
-GAAGGAGCACGACGACAACGGGG
->MLOC_12866_gRNA2A
-GCTGAATCCACGCATATTGAAGG
+`>MLOC_12866_gRNA1A`  
+GAAGGAGCACGACGACAACGAGG  
+`>MLOC_12866_gRNA1T`  
+GAAGGAGCACGACGACAACGTGG  
+`>MLOC_12866_gRNA1C`  
+GAAGGAGCACGACGACAACGCGG  
+`>MLOC_12866_gRNA1G`  
+GAAGGAGCACGACGACAACGGGG  
+`>MLOC_12866_gRNA2A`  
+GCTGAATCCACGCATATTGAAGG`  
 
 	Note that each entry has a sequence description line starting with a ">" character.  Make sure to keep the description 
 	to one line only.  Follow the sequence description line immediately with the sequence of interest.  Do not add a space 
