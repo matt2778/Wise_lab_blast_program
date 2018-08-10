@@ -1,0 +1,8 @@
+Blast_information
+your_last_name
+today_date (e.g. 2-6-2017)
+blast_type (blastn blastp blastx)
+short_query_sequence (yes or no)
+e_value cutoff (e.g. 1e-15 or 0.000001)
+query_file (.fa only)
+database_to_search (follow cybox template format)

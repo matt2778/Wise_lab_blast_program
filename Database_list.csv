@@ -1,0 +1,19 @@
+Label,file
+barley Morex genome (refseq 1),160404_barley_pseudomolecules_masked_oneLine.fa
+barley Morex high confidence proteome (refseq 1),160517_Hv_IBSC_PGSB_r1_proteins_HighConf_REPR_annotation.fasta
+barley Morex ensembl genome (version 34),Hordeum_vulgare.ASM32608v1.dna.toplevel.fa
+barley Morex ensembl proteome (version 34),Hordeum_vulgare.ASM32608v1.pep.all.fa
+barley Morex ensembl  transcriptome (version 34),Hordeum_vulgare.ASM32608v1.cds.all_oneLine.fa
+barley GATK CI-16151 Morex guided genome (with SNPs and indels),8-23-2016_20031_CI-16151-WT_ref_v2_oneLine.fa
+barley GATK CI-16151 Morex guided genome (only SNPs),2-13-2017_20031_CI-16151-WT_ref_v3.fasta
+barley CI-16151 WT Morex guided transcriptome,2-6-2017_barley_aligned_BigSeq_WT_transcripts_oneLine_v3.fa
+barley CI-16151 small RNAs (BigSeq panel),3-28-2016_ALL_barley_SS_and_mirdeep-p_miRNAs.fa
+Harvest21 barley transcriptome (microarray transcripts),Harvest21_singleLine.fa
+Blumeria DH14 genome (ensembl version 34),Blumeria_graminis.EF1.dna.toplevel.fa
+Blumeria 5874 DH14-guided transcriptome,Blumeria_graminis.EF1.32_transcriptome_oneLine.fa
+Blumeria DH14 proteome (ensembl version 34),Blumeria_graminis.EF1.pep.all.fa
+Blumeria small RNAs (BigSeq panel),1-26-2016_Blumeria_SS_mirdeep-p_combined_sRNA_predictions.fa
+current nr database (updated 2-7-2017),nr_2-7-2017/nr.fa
+current nt database (updated 2-8-2017),nt_2-8-2017/nt.fa
+Arabidopsis proteome (version 11),Araport11_genes.201606.pep.fasta
+barley GATK m11526 Morex guided genome (with SNPs and indels),8-23-2016_20031_CI-16151-RAR3_m11526_ref_v2.fasta

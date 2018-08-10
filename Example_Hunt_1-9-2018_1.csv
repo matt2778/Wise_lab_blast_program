@@ -1,0 +1,14 @@
+Blast_information,
+your_last_name,Hunt
+today_date (e.g. 2-6-2017),1-9-2018
+blast_type (blastn blastp blastx),blastx
+short_query_sequence (yes or no),no
+e_value cutoff (e.g. 1e-15 or 0.000001),1E-100
+query_file (.fa only),1-9-2018_all_transcript_phasiRNA_overlaps_unique_annotatedIsoforms_split_aa.fa
+database_to_search (follow cybox template format),nr_1-8-2018
+,
+,
+,
+,
+,
+, 
