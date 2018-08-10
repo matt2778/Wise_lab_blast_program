@@ -2,7 +2,7 @@
 Convenient local blast tool for non-bioinformaticists in the Wise lab
 
 
-##INPUT FILES
+## INPUT FILES
 
 **1.	Fasta file with sequences of interest**
 
@@ -52,7 +52,7 @@ GCTGAATCCACGCATATTGAAGG
 
 
 
-##RUNNING THE SCRIPT
+## RUNNING THE SCRIPT
 
 **1.	Logging into speedy server**
 
@@ -78,7 +78,7 @@ your_isu_password
 
 
 
-##OUTPUT FILES
+## OUTPUT FILES
 
 	The 2-6-2017_lab_blast_program_v1.sh script creates two output files upon successfull completion
 	
